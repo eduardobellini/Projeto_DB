@@ -8,4 +8,9 @@
 
 **Período:** 3°Período
 
-**Grupo** Eduardo Bellini, Nadson Paulo, Marcos Winicyus, Gabriel Costa
+**Grupo**: Eduardo Bellini, Nadson Paulo, Marcos Winicyus, Gabriel Costa
+
+## Objetivo Geral
+Nós do grupo do sistema de delivery de refeições fizemos um banco de dados
+de acordo com a porposta e desenvolvemos melhorias e automatizações para
+uma consulta mais eficiente e eficaz.
