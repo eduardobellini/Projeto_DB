@@ -18,7 +18,7 @@ de acordo com a porposta e desenvolvemos melhorias e automatizações para
 uma consulta mais eficiente e eficaz no momento de pesquisa de alguma entidade ou atributo, 
 usando o progrma PGadmin 4.
 
-##Estrutura do banco 
+## Estrutura do banco 
 
 Projeto do Banco
 │
