@@ -1,6 +1,6 @@
 # Projeto_DB
 
-**Curso:** Sistemas para Internet
+**Curso:** Sistemas para Internet-Manhã
 
 **Disciplina:** Banco de Dados Avançado
 
@@ -15,5 +15,6 @@
 ## Objetivo Geral
 Nós do grupo do sistema de delivery de refeições fizemos um banco de dados
 de acordo com a porposta e desenvolvemos melhorias e automatizações para
-uma consulta mais eficiente e eficaz, usando o progrma PGadmin 4.
+uma consulta mais eficiente e eficaz no momento de pesquisa de alguma entidade ou atributo, 
+usando o progrma PGadmin 4.
 
