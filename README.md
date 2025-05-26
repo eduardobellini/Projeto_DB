@@ -20,8 +20,8 @@ usando o progrma PGadmin 4.
 
 ## Estrutura do banco 
 
-`Projeto do Banco
-│
+``` Projeto do Banco
+│ 
 ├── 📁 Tables/
 │   ├── 001_create_tables.sql
 │   ├── 002_create_indices.sql
@@ -58,4 +58,4 @@ usando o progrma PGadmin 4.
 │   ├── trigger_deletar_itens_apos_exclusao_pedido.sql
 │   ├── funcao_trigger_bloquear_exclusao_entregador_com_pedidos_ativos.sql
 │   ├── trigger_bloquear_exclusao_entregador_com_pedidos_ativos.sql
-
+```
