@@ -20,7 +20,7 @@ usando o progrma PGadmin 4.
 
 ## Estrutura do banco 
 
-Projeto do Banco
+`Projeto do Banco
 │
 ├── 📁 Tables/
 │   ├── 001_create_tables.sql
