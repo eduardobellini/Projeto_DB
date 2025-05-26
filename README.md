@@ -63,5 +63,3 @@ Projeto do Banco
 │   ├── modelo_logico.md
 │   ├── diagrama_er.png (opcional)
 │   ├── README.md
-│
-└── init_db.sql   (script para criar todo o banco do zero)
