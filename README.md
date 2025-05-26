@@ -22,7 +22,7 @@ usando o progrma PGadmin 4.
 
 Projeto do Banco
 │
-├── 📁 migrations/
+├── 📁 Tables/
 │   ├── 001_create_tables.sql
 │   ├── 002_create_indices.sql
 │   ├── 003_create_triggers.sql
