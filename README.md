@@ -58,8 +58,4 @@ Projeto do Banco
 │   ├── trigger_deletar_itens_apos_exclusao_pedido.sql
 │   ├── funcao_trigger_bloquear_exclusao_entregador_com_pedidos_ativos.sql
 │   ├── trigger_bloquear_exclusao_entregador_com_pedidos_ativos.sql
-│
-├── 📁 docs/
-│   ├── modelo_logico.md
-│   ├── diagrama_er.png (opcional)
-│   ├── README.md
+
