@@ -15,4 +15,4 @@
 ## Objetivo Geral
 Nós do grupo do sistema de delivery de refeições fizemos um banco de dados
 de acordo com a porposta e desenvolvemos melhorias e automatizações para
-uma consulta mais eficiente e eficaz.
+uma consulta mais eficiente e eficaz, usando o progrma PGadmin 4.
