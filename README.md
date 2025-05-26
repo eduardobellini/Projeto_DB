@@ -8,7 +8,7 @@
 
 **Período:** 3°Período
 
-**Grupo**: Sistema de delivery
+**Grupo**: Sistema de delivery de refeições
 
 **Integrantes**:Eduardo Bellini, Nadson Paulo, Marcos Winicyus, Gabriel Costa
 
